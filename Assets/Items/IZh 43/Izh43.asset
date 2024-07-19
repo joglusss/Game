@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5552875142f094091a051c4219ddf0, type: 3}
+  m_Name: Izh43
+  m_EditorClassIdentifier: 
+  ID: ID_izh43
+  DropPrefab: {fileID: 1242624249242521065, guid: 0cff1b4a15b97ac4f94eb1d4d2971593,
+    type: 3}
+  HandPrefab: {fileID: 6944703018557669927, guid: f60bb2c6177ee0142b086ac58cbb25cb,
+    type: 3}
+  MeshModel: {fileID: -5460900144582036860, guid: 3cbc2269233e36a4ebad4fd8a7cdb94a,
+    type: 3}
+  MaterialModel: {fileID: 2100000, guid: d3c23e6d2c0409e48aa1ec887cc0ed6b, type: 2}

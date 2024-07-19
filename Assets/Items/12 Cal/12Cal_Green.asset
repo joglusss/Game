@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70de155ab719aac4faf30eaf03060f2c, type: 3}
+  m_Name: 12Cal_Green
+  m_EditorClassIdentifier: 
+  ID: ID_12cal_green
+  DropPrefab: {fileID: 7943947932728457135, guid: b6a87f6a73e918e48aac7a72ab4b3e9d,
+    type: 3}
+  HandPrefab: {fileID: 0}
+  MeshModel: {fileID: 681761916634349345, guid: 2a5fd85a28de19d48aeea08a2b4605c5,
+    type: 3}
+  MaterialModel: {fileID: 2100000, guid: 76f468d261f01084ca458ebc282620cc, type: 2}
+  Damage: 5
+  ArmorPenetration: 7
+  CountBullet: 1

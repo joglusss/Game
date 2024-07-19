@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5552875142f094091a051c4219ddf0, type: 3}
+  m_Name: OTs38
+  m_EditorClassIdentifier: 
+  ID: ID_ots38
+  DropPrefab: {fileID: 3860586203839678202, guid: bb73fe22a7893db40af7d4cba2377e07,
+    type: 3}
+  HandPrefab: {fileID: 6995633332396249023, guid: 75ddf57d8ce9a55458e4c96d1e7dc60d,
+    type: 3}
+  MeshModel: {fileID: -2735222514433182826, guid: fa1748b102a5b1b4389282c410f1adff,
+    type: 3}
+  MaterialModel: {fileID: 2100000, guid: c09631617d4d9f54b8184b3c73b5b19f, type: 2}
